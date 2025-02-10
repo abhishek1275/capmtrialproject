@@ -1,0 +1,6 @@
+ID;name;phone;email;address;dateOfJoining;department_ID
+54ef5e07-5edf-4ea6-a500-bb976360c278;Alice Johnson;1234567890;alice.johnson@example.com;123 Main St, City A;2021-06-01;54ef5e07-5edf-4ea6-a500-bb976360c278
+e8dc889f-6565-461b-9216-8687ad3ec771;Bob Smith;2345678901;bob.smith@example.com;456 Elm St, City B;2021-06-15;e8dc889f-6565-461b-9216-8687ad3ec771
+8cc68954-9650-4469-bb21-daa477f5bb3b;Charlie Brown;3456789012;charlie.brown@example.com;789 Oak St, City C;2021-07-10;8cc68954-9650-4469-bb21-daa477f5bb3b
+4faeedec-370f-4885-b721-9dfe84f6a313;Diana Prince;4567890123;diana.prince@example.com;321 Pine St, City D;2021-08-20;4faeedec-370f-4885-b721-9dfe84f6a313
+2e81b46b-073b-458d-b940-a2c3cb125dce;Ethan Hunt;5678901234;ethan.hunt@example.com;654 Maple St, City E;2021-09-05;2e81b46b-073b-458d-b940-a2c3cb125dce
